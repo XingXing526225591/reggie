@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35b15d22-8632-4bbe-9c39-cb3b04359856" name="变更" comment="redis配置文件">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e7d2be69-85fb-4efa-a3bd-52c24c34d5b9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e7d2be69-85fb-4efa-a3bd-52c24c34d5b9.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/DishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/DishController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/common/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/common/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/config/WebMVCConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/config/WebMVCConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/SetMealController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/SetMealController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/filter/LoginCheckFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/filter/LoginCheckFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/front/js/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/front/js/request.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="v1.1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,6 +75,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
@@ -171,8 +178,8 @@
       <list>
         <item itemvalue="Spring Boot.ReggieApplication" />
         <item itemvalue="JUnit.JedisTest.testOne (1)" />
-        <item itemvalue="JUnit.JedisTest.test (1)" />
         <item itemvalue="JUnit.JedisTest.testOne" />
+        <item itemvalue="JUnit.JedisTest.test (1)" />
         <item itemvalue="JUnit.JedisTest.test" />
       </list>
     </recent_temporary>
@@ -203,6 +210,16 @@
       <workItem from="1654595404725" duration="235000" />
       <workItem from="1654617583977" duration="4768000" />
       <workItem from="1654740062272" duration="3455000" />
+      <workItem from="1654768556666" duration="2791000" />
+      <workItem from="1654868473148" duration="719000" />
+      <workItem from="1654870843766" duration="3377000" />
+      <workItem from="1654874442733" duration="1343000" />
+      <workItem from="1654875846901" duration="29000" />
+      <workItem from="1654876057093" duration="3911000" />
+      <workItem from="1654923915766" duration="3834000" />
+      <workItem from="1654933043133" duration="2318000" />
+      <workItem from="1654937433409" duration="194000" />
+      <workItem from="1654961007220" duration="249000" />
     </task>
     <task id="LOCAL-00001" summary="redis配置文件">
       <created>1654740264149</created>
@@ -220,6 +237,32 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="redis配置文件" />
     <option name="LAST_COMMIT_MESSAGE" value="redis配置文件" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/ShoppingCartController.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/ShoppingCartController.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/ShoppingCartController.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/resources/front/index.html</url>
+          <line>380</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
